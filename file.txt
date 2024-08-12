@@ -2,4 +2,7 @@ hello git
 hello git v2
 hello git merging v3
 manual merging 
+
 fixing common merging error
+local fixing features
+features
